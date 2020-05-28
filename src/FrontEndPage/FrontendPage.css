@@ -1,0 +1,21 @@
+.stylings
+{
+   background-color:white;
+   color:white;
+
+}
+
+.btn-style
+{
+    color:black;
+    font-weight: 700;
+    
+}
+.btn-style:hover{
+    background-color:honeydew;
+    color:black;
+}
+.change-color
+{
+    color:white;
+}

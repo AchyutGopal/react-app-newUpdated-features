@@ -1,0 +1,21 @@
+body{
+	position: relative; /* required */
+}
+.list-group{
+    position: sticky; /* Supported in latest version of Chrome, Firefox, Safari, Opera and Edge browsers */
+    top:25px;
+}
+.aStyles
+{
+    text-decoration: none
+}
+.aStyles:hover
+{
+    text-decoration: none;
+    color:white;
+   
+
+}
+.btnStyles:hover{
+    background-color: black;
+}

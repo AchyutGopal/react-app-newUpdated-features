@@ -1,0 +1,59 @@
+.container-style
+{
+   
+    background: linear-gradient(to right,#7E0F4B, #1A5865);
+    background-size: contain; 
+   
+}
+.cardsStyle
+{
+    background-color:ghostwhite;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.cardsStyle:hover
+{
+    border-color: moccasin;
+    box-shadow: gold;
+    transform:scale(1.03);
+}
+
+.cardsStyle img:hover
+{
+ transform:scale(1.02)
+}
+.button-style
+{
+    border-color: black;
+}
+
+.button-style:hover
+{
+    border-color: white;
+    background-color: black;
+    color:white;
+    transform:scale(1.07);
+}
+
+.card-body:hover{
+    transform:scale(1.05);
+}
+
+.card-img-top
+{
+   
+    height:160px;
+}
+
+.head-style
+{
+    font-size:30px;
+    padding-bottom: 20px;
+    color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
